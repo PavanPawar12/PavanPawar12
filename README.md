@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavan+Pawar;MERN+Stack+Developer;I+love+coding+and+learning+tech!" />
-</p>
+<h1 align="center">Hi 👋, I'm Pavan Pawar</h1>
+<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pawanpawar&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpawar" />
