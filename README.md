@@ -8,12 +8,12 @@
 ---
 
 <p align="center">
-  🌱 I’m currently learning <strong>Next.js</strong> and <strong>System Design</strong> <br>
-  🔭 I’m working on <strong>building full-stack MERN projects</strong> <br>
-  👯 I’m looking to collaborate on <strong>Open Source Projects</strong> <br>
-  💬 Ask me about <strong>React, MongoDB, Node.js, Express</strong> <br>
+  🚀 I’m a passionate <strong>MERN Stack Developer</strong> who loves building real-world web applications <br>
+  🌟 I enjoy turning ideas into reality using <strong>MongoDB, Express, React, and Node.js</strong> <br>
+  👨‍💻 Always curious to explore new technologies and improve my coding skills <br>
+  💬 Ask me about <strong>JavaScript, React, MongoDB, Express, Node.js</strong> <br>
   📫 Reach me at: <strong>pawanpawar9923100@gmail.com</strong> <br>
-  ⚡ Fun fact: <strong>Debugging feels like solving puzzles 🔍</strong>
+  ⚡ Fun fact: <strong>I believe every bug is an opportunity to learn 🐛➡️💡</strong>
 </p>
 
 ---
