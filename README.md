@@ -37,13 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanpawar&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpawar&theme=default" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanpawar&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect with me</h2>
