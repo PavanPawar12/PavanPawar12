@@ -1,66 +1,59 @@
-<h1 align="center">Hi 👋, I'm Pavan Pawar</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawanpawar&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpawar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavan+Pawar;MERN+Stack+Developer;Full+Stack+Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavanPawar12&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views"/>
+</p>
+<!-- Cartoon GIF -->
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Boy"/>
+
+---
+
+## 🚀 About Me  
+- 🔭 Currently working on **MERN Stack Projects**  
+- 🌱 Learning **Advanced Node.js, Tailwind CSS, and Python**  
+- 💬 Ask me about **JavaScript, React, MongoDB, Express, Node.js**  
+- 📫 Email: **pawanpawar9923100@gmail.com**  
+- ⚡ Fun fact: *I debug my dreams too*  
+
+---
+
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats  
 <p align="center">
-  🚀 I’m a passionate <strong>MERN Stack Developer</strong> who loves building real-world web applications <br>
-  🌟 I enjoy turning ideas into reality using <strong>MongoDB, Express, React, and Node.js</strong> <br>
-  👨‍💻 Always curious to explore new technologies and improve my coding skills <br>
-  💬 Ask me about <strong>JavaScript, React, MongoDB, Express, Node.js</strong> <br>
-  📫 Reach me at: <strong>pawanpawar9923100@gmail.com</strong> <br>
-  ⚡ Fun fact: <strong>I believe every bug is an opportunity to learn 🐛➡️💡</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanPawar12&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanPawar12&theme=radical" height="150"/>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <!-- Public, accurate stats (no private or "all commits" inflation) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PavanPawar12&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&v=1"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanPawar12&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-<h2 align="center">🌐 Connect with me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-pawar-312631286/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:pawanpawar9923100@gmail.com" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="30" />
+  <a href="mailto:pawanpawar9923100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
