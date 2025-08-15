@@ -38,10 +38,19 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanpawar&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
----
+<div align="center">
+  <!-- Public, accurate stats (no private or "all commits" inflation) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PavanPawar12&show_icons=true&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&v=1"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanPawar12&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1"
+    height="150"
+    alt="Top languages"
+  />
+</div>
 
 <h2 align="center">🌐 Connect with me</h2>
 
