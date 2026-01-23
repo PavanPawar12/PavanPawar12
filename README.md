@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PavanPawar12&show_icons=true&theme=radical" alt="Pavan's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanPawar12&theme=radical" alt="Pavan's streak stats" height="150"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanPawar12&theme=radical" alt="Pavan's streak stats" height="150"/> -->
 </p>
 
 ---
