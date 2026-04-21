@@ -1,59 +1,75 @@
-<!-- Profile Header -->
+<!-- HEADER -->
+<h1 align="center">Hey 👋, I'm Pavan Pawar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Java Enthusiast | Versatile Learner</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavan+Pawar;MERN+Stack+Developer;Full+Stack+Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  💻 Passionate about building scalable web applications <br>
+  🌱 Currently mastering Advanced Backend & DSA <br>
+  ⚡ I believe in learning by building real-world projects
 </p>
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavanPawar12&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views"/>
-</p>
-<!-- Cartoon GIF -->
-<p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Boy"/>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **MERN Stack Projects**  
-- 🌱 Learning **Advanced Node.js, Tailwind CSS, and Python**  
-- 💬 Ask me about **JavaScript, React, MongoDB, Express, Node.js**  
-- 📫 Email: **pawanpawar9923100@gmail.com**  
-- ⚡ Fun fact: *I debug my dreams too*  
+
+- 👨‍💻 I am a **MERN Stack Developer** with strong problem-solving skills in **Java**
+- 🧠 A **versatile learner** who loves exploring new technologies  
+- 🔭 Currently working on **Full Stack Web Projects**  
+- 🌱 Learning **Advanced Node.js, System Design & DSA**  
+- 🎯 Goal: Become a **skilled Software Engineer & Problem Solver**  
+- ⚡ Fun fact: *I debug code faster than I debug life 😄*
 
 ---
 
 ## 🛠 Tech Stack  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,python,html,css,tailwind,bootstrap,postman,git,github" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavanPawar12&show_icons=true&theme=radical" alt="Pavan's GitHub stats" height="150"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanPawar12&theme=radical" alt="Pavan's streak stats" height="150"/> -->
-</p>
+## 📌 Projects  
+
+### 🛒 E-Commerce Web Application  
+- Developed a full-stack **E-Commerce platform** for Men, Women, and Kids clothing  
+- Implemented **product listing, filtering, and cart functionality**  
+- Practiced real-world concepts like **API integration, state management, and CRUD operations**  
+- Tech Used: **React, Node.js, Express, MongoDB**  
+
+---
+
+### 🍱 ShareBites – Food Management System  
+- Built a platform to **connect food donors (hotels) with receivers (needy people)**  
+- Implemented **donor & receiver modules** for efficient food sharing  
+- Integrated **map functionality to calculate distance** between donor and receiver  
+- Helps reduce **food waste and support hunger relief initiatives**  
+- Tech Used: **MERN Stack + Map API**
 
 ---
 
 ## 🌐 Connect with Me  
+
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/pavan-pawar-312631286/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/PavanPawar12">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:pawanpawar9923100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/pavan-pawar-312631286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 🧠 Current Focus  
+
+✔ Mastering Data Structures & Algorithms (Java)  
+✔ Building Scalable Backend Systems  
+✔ Improving Problem Solving & Logic  
+
+---
